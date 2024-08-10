@@ -1,6 +1,6 @@
 # padfolio
 
-Wayland clipboard manager
+Minimal Wayland clipboard manager
 
 ## License
 
